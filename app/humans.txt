@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  <name> 吕剑波(咖啡虫),一个普通的再不能普通的代码者 <role> 代码重构 <twitter>https://twitter.com/kafeichong
+
+# THANKS
+
+  <name>我的父母,妻子,儿子,朋友,亲人,我是牺牲了多少陪他们的时间来做这份工作的
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3

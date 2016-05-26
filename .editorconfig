@@ -1,0 +1,14 @@
+# editorconfig.org  用来定义代码格式，以实现不同编辑器、不同项目成员之间统一代码风格。
+#  参考https://atom.io/packages/editorconfig
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false

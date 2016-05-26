@@ -1,0 +1,6 @@
+# www.robotstxt.org/搜索引擎抓取协议
+# 生成文件可以参考 http://tool.chinaz.com/robots/
+
+# Allow crawling of all content 允许抓取所有的内容
+User-agent: *
+Disallow:
